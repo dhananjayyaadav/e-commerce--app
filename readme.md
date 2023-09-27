@@ -80,6 +80,11 @@ Install expo-cli
    ```sh
    npm install
    ```
+3.   ```sh
+   2. run localhost
+   ```sh
+  http://localhost:19006/
+   ```
    ```sh
    yarn
    ```
