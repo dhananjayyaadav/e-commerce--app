@@ -1,8 +1,6 @@
 
 <div align="center">
   <h1> React Native E-Commerce App </h1> 
-  <h2>Designed by <a href='https://www.figma.com/@rosina' >Rosina</a> </h2> <p><a href='https://www.figma.com/community/file/938370941255119298' >Figma Community Link</a> </p>
- <p>An Ecommerce app made with react native</p>
   <img src='./readMeImages/drawer.png' width="150"/>  
   <img src='./readMeImages/screen.gif' width="150"/>  
   <img src='./readMeImages/home.png' width="150"/>  
