@@ -93,3 +93,4 @@ Install expo-cli
    ```sh
    expo start
    ```
+    ```sh
