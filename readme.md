@@ -92,6 +92,8 @@ Install expo-cli
    ```
    5. run localhost
       ```sh
-  localhost:19006/
+ 
   
    ```
+
+   localhost:19006/
