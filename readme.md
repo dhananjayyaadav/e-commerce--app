@@ -81,7 +81,7 @@ Install expo-cli
    npm install
    ```
    ```sh
-   2. run localhost
+4.   run localhost
    ```sh
   http://localhost:19006/
    ```
