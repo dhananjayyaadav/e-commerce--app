@@ -81,16 +81,17 @@ Install expo-cli
    npm install
    ```
    ```sh
-4.   run localhost
-   ```sh
-  http://localhost:19006/
-   ```
+3.   
    ```sh
    yarn
    ```
 
-3. Start the App on expo
+4. Start the App on expo
    ```sh
    expo start
    ```
-    ```sh
+   5. run localhost
+      ```sh
+  localhost:19006/
+  
+   ```
