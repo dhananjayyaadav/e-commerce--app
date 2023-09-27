@@ -91,8 +91,6 @@ Install expo-cli
    expo start
    ```
    5. run localhost
-      ```sh
- 
   
    ```
 
